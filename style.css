@@ -1,0 +1,15 @@
+#navbar {
+  height: 60px;
+  width: 60px;
+}
+/* .setlist {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 20px;
+} */
+
+.main {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 20px;
+}
